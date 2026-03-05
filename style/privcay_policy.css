@@ -1,0 +1,22 @@
+.privacy_container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+}
+.privacy_main{
+    padding-left: 80px;
+}
+.privacy_main .privacy_list{
+    margin: 0;
+}
+.privacy_list_item{
+    list-style: none;
+    margin: 10px 0;
+}
+h2.privacy_title{
+    font-size: 32px;
+}
+.privacy_title{
+    margin: 0;
+}
