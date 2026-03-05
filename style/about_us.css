@@ -1314,7 +1314,7 @@ body.rtl .e-con {
 
 .elementor-75798 .elementor-element.elementor-element-bff4888:not(.elementor-motion-effects-element-type-background),
 .elementor-75798 .elementor-element.elementor-element-bff4888>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: var(--wpr-bg-8e2900aa-5c41-49ba-8c39-b84a4f768936);
+    background-image: url(../images/image_007.jpg);
     background-position: center center;
     background-size: cover
 }

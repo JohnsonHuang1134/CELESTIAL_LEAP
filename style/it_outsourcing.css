@@ -689,7 +689,7 @@ body .is-layout-grid {
 
         .elementor-75814 .elementor-element.elementor-element-685a24da .elementor-repeater-item-6452363 .swiper-slide-bg {
             background-color: var( --e-global-color-73da776);
-            background-image: var(--wpr-bg-817b16b4-1c10-4d43-99f8-67ad3de0c834);
+            background-image: url(../images/image_022.jpg);
             background-size: cover;
         }
 
@@ -1209,8 +1209,8 @@ body .is-layout-grid {
         }
 
         .elementor-75814 .elementor-element.elementor-element-1f53f4d .dt-css-grid {
-            --wide-desktop-columns: 4;
-            grid-template-columns: repeat(4, 1fr);
+            --wide-desktop-columns: 3;
+            grid-template-columns: repeat(3, 1fr);
             grid-column-gap: 20px;
             grid-row-gap: 20px;
             --grid-row-gap: 20px;

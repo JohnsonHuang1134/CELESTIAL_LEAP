@@ -1109,7 +1109,7 @@ body.rtl .e-con {
 
 .elementor-92545 .elementor-element.elementor-element-65e529a4 .elementor-repeater-item-6452363 .swiper-slide-bg {
     background-color: var(--e-global-color-73da776);
-    background-image: var(--wpr-bg-414ab964-d29d-4c21-bbed-2b71c1f54f91);
+    background-image: url(../images/image_029.jpg);
     background-size: cover
 }
 
@@ -6059,7 +6059,13 @@ body .elementor-75888 .elementor-element.elementor-element-a54f47e .elementor-la
 
 .elementor-widget-image-box .elementor-image-box-img img {
     display: block;
-    line-height: 0
+    line-height: 0;
+}
+.object_fit_cover{
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
 }
 
 .elementor-widget-image-box .elementor-image-box-title a {
@@ -22431,26 +22437,6 @@ img#wpstats {
 .elementor-92545 .elementor-element.elementor-element-68c37baa:not(.elementor-motion-effects-element-type-background),
 .elementor-92545 .elementor-element.elementor-element-68c37baa>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: url(../images/image_031.jpg);
-}
-
-.elementor-92545 .elementor-element.elementor-element-4e0870e0:not(.elementor-motion-effects-element-type-background),
-.elementor-92545 .elementor-element.elementor-element-4e0870e0>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    --wpr-bg-1a45a2a0-dc71-450b-b838-95080eb57f45: url('https://rovertech.com.hk/wp-content/uploads/2025/01/Boost-User-Engagement-UIUX-Design-1.png');
-}
-
-.elementor-92545 .elementor-element.elementor-element-5cfcd7b4:not(.elementor-motion-effects-element-type-background),
-.elementor-92545 .elementor-element.elementor-element-5cfcd7b4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    --wpr-bg-af140b68-627f-4653-ada4-6d06d23d7e01: url('https://rovertech.com.hk/wp-content/uploads/2025/01/Strong-User-Stickiness-UIUX-Design-1.png');
-}
-
-.elementor-92545 .elementor-element.elementor-element-14a0a11f:not(.elementor-motion-effects-element-type-background),
-.elementor-92545 .elementor-element.elementor-element-14a0a11f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    --wpr-bg-9b6de881-a51d-45d8-8541-a5de8e0c4519: url('https://rovertech.com.hk/wp-content/uploads/2025/01/Strengthen-Brand-Identity-UIUX-Design-1.png');
-}
-
-.elementor-92545 .elementor-element.elementor-element-6f277adc:not(.elementor-motion-effects-element-type-background),
-.elementor-92545 .elementor-element.elementor-element-6f277adc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    --wpr-bg-7043e920-ce83-4374-b750-663e4e01fbe9: url('https://rovertech.com.hk/wp-content/uploads/2025/01/Automate-Corporation-Workflows-UIUX-Design-1.png');
 }
 
 .rll-youtube-player .play {
