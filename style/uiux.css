@@ -1109,7 +1109,7 @@ body.rtl .e-con {
 
 .elementor-92545 .elementor-element.elementor-element-65e529a4 .elementor-repeater-item-6452363 .swiper-slide-bg {
     background-color: var(--e-global-color-73da776);
-    background-image: url(../images/image_029.jpg);
+    background-image: url('../images/image_029.jpg');
     background-size: cover
 }
 
@@ -1124,7 +1124,7 @@ body.rtl .e-con {
 
 .elementor-92545 .elementor-element.elementor-element-65e529a4 .elementor-repeater-item-f141fba .swiper-slide-bg {
     background-color: var(--e-global-color-73da776);
-    background-image: var(--wpr-bg-478c3c62-ba0c-4a5e-89b9-6c88ba724409);
+    background-image: url('../images/image_030.jpg');
     background-size: cover
 }
 
@@ -22414,13 +22414,6 @@ img#wpstats {
 }
 
 /*# sourceURL=rocket-lazyload-inline-css */
-.elementor-92545 .elementor-element.elementor-element-65e529a4 .elementor-repeater-item-6452363 .swiper-slide-bg {
-    --wpr-bg-414ab964-d29d-4c21-bbed-2b71c1f54f91: url('https://rovertech.com.hk/wp-content/uploads/2025/02/UI-UX-Banner.png');
-}
-
-.elementor-92545 .elementor-element.elementor-element-65e529a4 .elementor-repeater-item-f141fba .swiper-slide-bg {
-    --wpr-bg-478c3c62-ba0c-4a5e-89b9-6c88ba724409: url('https://rovertech.com.hk/wp-content/uploads/2025/01/Struggling-with-Low-Engagement-and-Conversions_.png');
-}
 
 .solid-bg .sidebar-content {
     --wpr-bg-bb65c65e-ccc5-4f4d-b7a2-682416d9f713: url('https://rovertech.com.hk/wp-content/themes/dt-the7/images/backgrounds/patterns/full/archers.gif');
