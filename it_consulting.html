@@ -1304,7 +1304,23 @@
                                 </div>
                             </section>
                         </div>
+                        <script>
+                            document.querySelectorAll('.elementor-tab-title').forEach(title => {
+                                title.addEventListener('click', function () {
+                                    let item = this.parentElement;
+                                    let content = item.querySelector('.elementor-tab-content');
 
+                                    if (this.classList.contains('active')) {
+                                    this.classList.remove('active');
+                                    content.style.display = "none";
+                                    } else {
+                                    this.classList.add('active');
+                                    content.style.display = "block";
+                                    }
+
+                                });
+                            });
+                        </script>
                     </div>
                     <!-- #content -->
 
